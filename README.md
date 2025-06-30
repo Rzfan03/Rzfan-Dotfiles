@@ -3,4 +3,4 @@
 
 <h1>Screenshot : </h1>
 
-<img src="rzfann_i3wm_dotfiles/foto1.png>
+<img src="foto1.png>
