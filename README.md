@@ -1,5 +1,8 @@
 <h1>rzfann_dotfiles</h1>
 <p align="center">
+  <img src="foto1.png"/>
+</p>
+<p align="center">
   <img src="foto2.png"/>
 </p>
 <h2>Note : This dotfiles just work on i3wm</h2>
